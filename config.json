@@ -1,0 +1,13 @@
+{
+    "contacts": [
+        "Tên Bạn 1",
+        "Tên Bạn 2",
+        "Tên Bạn 3",
+        "Tên Bạn 4",
+        "Tên Bạn 5"
+    ],
+    "message": "Chào bạn! Chúc bạn một ngày tốt lành! 😊",
+    "headless": false,
+    "delay_between_messages": 3,
+    "max_retries": 2
+}
